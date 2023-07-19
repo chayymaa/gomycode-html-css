@@ -1,0 +1,23 @@
+.decoration{
+    background-color: rgb(192, 153, 102);
+
+    width: 20%;
+
+}
+.decoration:hover{
+    background-color: rgb(207, 172, 128);
+}
+.decor{
+    background-color:bisque;
+    width: 22%;
+}
+.decor:hover
+{
+    background-color:rgb(229, 197, 157);
+    
+}
+.texte{
+
+    background-color: rgb(225, 185, 135);
+    width: 20%;
+}
